@@ -1,0 +1,17 @@
+[user]
+	name = Vlad Poltorin
+	email = vlad@getoctane.io
+[alias]
+	co = checkout
+	s = status
+	cm = commit -m
+	ca = commit --amend
+	br = branch
+	brd = branch -D
+	cob = checkout -b
+	rc = reset HEAD~1
+	st = stash
+	stp = stash pop
+	cl = config --list
+	rl = remote -v
+	p = pull
